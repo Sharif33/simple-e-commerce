@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1001,
+        "name": "Imran Omer, MD",
+        "star": 5.0,
+        "rating": 9622,
+        "fee": 28.9,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/5xMvxvH/Imran-Omar-MD-Radiology.jpg"
+    },
+    {
+        "id": 1002,
+        "name": "Frank H Miller, MD",
+        "star": 5.0,
+        "rating": 6425,
+        "fee": 56.3,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/yQ5c510/doc2.jpg"
+    },
+    {
+        "id": 1003,
+        "name": "Amit Marwah, MD",
+        "star": 5.0,
+        "rating": 6430,
+        "fee": 69.29,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/bj06WL3/Amit-Marwah-MD-Radiology.jpg"
+    },
+    {
+        "id": 1004,
+        "name": "Gail Osterman, PhD",
+        "star": 5.0,
+        "rating": 7325,
+        "fee": 56.70,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/Wz4PxHn/Gail-Osterman-Ph-D-Cardiac-Behavioral-Medicine.jpg"
+    },
+    {
+        "id": 1005,
+        "name": "Cecil G. Wood, MD",
+        "star": 5.0,
+        "rating": 3527,
+        "fee": 55.02,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/CvC9tnY/doc5.jpg"
+    },
+    {
+        "id": 1006,
+        "name": "Ali Ahmed, MD",
+        "star": 5.0,
+        "rating": 7432,
+        "fee": 21.57,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/k64VCWW/Ali-Ahmed-MD-Hospital-Medicine.jpg"
+    },
+    {
+        "id": 1007,
+        "name": "Yazan M Alia, MD",
+        "star": 5.0,
+        "rating": 8221,
+        "fee": 29.7,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/KLwTHnp/Yazan-M-Alia-MD-1497067615-Internal-Medicine-Nephrology-Hypertension.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "Siavosh Saatee, MD",
+        "star": 5.0,
+        "rating": 33,
+        "fee": 31.74,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/FhrvBZb/Siavosh-Saatee-MD-Anesthesiology-and-Critical-Care-Medicine.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "Saadiya S. Sherwani",
+        "star": 5.0,
+        "rating": 33,
+        "fee": 31.74,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/JFKXgSN/doc9.jpg"
+    },
+    {
+        "id": 1001,
+        "name": "Imran Omer, MD",
+        "star": 5.0,
+        "rating": 9622,
+        "fee": 28.9,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/5xMvxvH/Imran-Omar-MD-Radiology.jpg"
+    },
+    {
+        "id": 1002,
+        "name": "Frank H Miller, MD",
+        "star": 5.0,
+        "rating": 6425,
+        "fee": 56.3,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/yQ5c510/doc2.jpg"
+    },
+    {
+        "id": 1003,
+        "name": "Amit Marwah, MD",
+        "star": 5.0,
+        "rating": 6430,
+        "fee": 69.29,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/bj06WL3/Amit-Marwah-MD-Radiology.jpg"
+    },
+    {
+        "id": 1004,
+        "name": "Gail Osterman, PhD",
+        "star": 5.0,
+        "rating": 7325,
+        "fee": 56.70,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/Wz4PxHn/Gail-Osterman-Ph-D-Cardiac-Behavioral-Medicine.jpg"
+    },
+    {
+        "id": 1005,
+        "name": "Cecil G. Wood, MD",
+        "star": 5.0,
+        "rating": 3527,
+        "fee": 55.02,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/CvC9tnY/doc5.jpg"
+    },
+    {
+        "id": 1006,
+        "name": "Ali Ahmed, MD",
+        "star": 5.0,
+        "rating": 7432,
+        "fee": 21.57,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/k64VCWW/Ali-Ahmed-MD-Hospital-Medicine.jpg"
+    },
+    {
+        "id": 1007,
+        "name": "Yazan M Alia, MD",
+        "star": 5.0,
+        "rating": 8221,
+        "fee": 29.7,
+        "contact": "+880 12 34",
+        "speciality": "Diagnostic Radiology",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/KLwTHnp/Yazan-M-Alia-MD-1497067615-Internal-Medicine-Nephrology-Hypertension.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "Siavosh Saatee, MD",
+        "star": 5.0,
+        "rating": 33,
+        "fee": 31.74,
+        "contact": "+880 12 34",
+        "speciality": "Body Imaging",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/FhrvBZb/Siavosh-Saatee-MD-Anesthesiology-and-Critical-Care-Medicine.jpg"
+    },
+    {
+        "id": 1008,
+        "name": "Saadiya S. Sherwani",
+        "star": 5.0,
+        "rating": 33,
+        "fee": 31.74,
+        "contact": "+880 12 34",
+        "speciality": "Hospital Medicine",
+        "reviews": "Patient ratings and comments are posted for physicians who see patients in the outpatient setting and have received at least 30 patient experience surveys. A physician will not have ratings or comments available until the minimum number of surveys are received from patients. Physicians will also not be included if their hospital, practice, or department is not yet participating in this initiative.",
+        "image": "https://i.ibb.co/JFKXgSN/doc9.jpg"
+    }
+]

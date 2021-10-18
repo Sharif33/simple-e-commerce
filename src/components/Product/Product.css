@@ -1,0 +1,44 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    
+}
+
+.product:hover{
+    box-shadow: .5px .5px 5px blue;
+    border-radius: 15px;
+}
+
+.p-padding{
+    padding-left: 10px;
+}
+.p-name{
+    color: blue;
+    font-weight: 400;
+}
+.btn-add{
+    background-color:red;
+    opacity: 60%;
+    width: 11rem;
+    height: 2rem;
+    border: none;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: 500;
+    font-size: 1.1rem;
+    border: 1px solid red;
+}
+.btn-add:hover{
+   background-color: white;
+   opacity: 70%;
+   color: red;
+   border: 1px solid red;
+   transition: 0.2s ease-out;
+}
+.icon-color{
+    color: orange;
+    padding-bottom: 5px;
+}
